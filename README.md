@@ -1,5 +1,3 @@
-﻿# Trabalho_MiniSistemaERP
-
 # Sistema de Controle de Estoque em Python
 
 ## Descrição
@@ -24,9 +22,9 @@ Este projeto implementa um sistema básico de controle de estoque em Python. Ele
 ### Pré-requisitos
 - Ter Python 3 instalado no sistema.
 - Instalar as dependências necessárias:
-
-`pip install tabulate matplotlib`
-
+```
+pip install tabulate matplotlib
+```
 
 ### Executando o Projeto
 1. Copie ou baixe este repositório.
@@ -64,17 +62,3 @@ Ao executar o programa, você pode:
 - Os dados de movimentações armazenam as datas das entradas e saídas para cálculo do tempo médio de reposição.
 - A Curva ABC é calculada com base no valor total em estoque, ajudando a identificar produtos mais valiosos para o negócio.
 - Os gráficos são gerados pela biblioteca Matplotlib, mostrando diferentes perspectivas do estoque visualmente.
-
-## Contribuição
-Contribuições são bem-vindas! Para contribuir, faça um fork do projeto, crie uma branch com sua feature ou correção, e envie um pull request descrevendo suas alterações.
-
-## Licença
-Este projeto está sob a licença MIT. Sinta-se à vontade para usar, modificar e distribuir conforme sua necessidade.
-
----
-
-Se precisar de mais alguma coisa, como exemplos de código para funções específicas ou documentação para parte do projeto, posso ajudar também.
-```
-
-
-
