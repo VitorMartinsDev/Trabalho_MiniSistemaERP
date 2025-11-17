@@ -30,7 +30,7 @@ pip install tabulate matplotlib
 1. Copie ou baixe este repositório.
 2. Execute o script principal em seu terminal:
 ```
-python Trabalho_MiniSistemaERP
+python MiniSistemaErp.py
 ```
 3. Use o menu interativo para realizar operações de controle de estoque.
 
@@ -62,4 +62,5 @@ Ao executar o programa, você pode:
 - Os dados de movimentações armazenam as datas das entradas e saídas para cálculo do tempo médio de reposição.
 - A Curva ABC é calculada com base no valor total em estoque, ajudando a identificar produtos mais valiosos para o negócio.
 - Os gráficos são gerados pela biblioteca Matplotlib, mostrando diferentes perspectivas do estoque visualmente.
+
 
